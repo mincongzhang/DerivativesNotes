@@ -64,7 +64,7 @@ A Bond, assumed to have exactly 20 years to maturity:
 
 $$Discounted \ Total \ Coupons = \sum_{n=1}^{40} \frac{5}{1.03^i}$$
 
-$$Discounted \ Face \ Value = \frac{100}{1.03^40}$$
+$$Discounted \ Face \ Value = \frac{100}{1.03^{40}}$$
 
 $$Discounted \ Total \ Bond \ Value = Discounted \ Total \ Coupons + Discounted \ Face \ Value = \sum_{n=1}^{40} \frac{5}{1.03^i} + \frac{100}{1.03^{40}} = 146.23$$
 
@@ -93,7 +93,7 @@ $$Coupon \ 3 \ months \ later \ from \ today = 4$$
 
 $$Discounted \ Total \ Coupons = \sum_{n=1}^{36} \frac{4}{1.03^i}$$
 
-$$Discounted \ Face \ Value = \frac{100}{1.03^36}$$
+$$Discounted \ Face \ Value = \frac{100}{1.03^{36}}$$
 
 $$Discounted \ Total \ Bond \ Value = Coupon + Discounted \ Total \ Coupons + Discounted \ Face \ Value =  4 + \sum_{n=1}^{36} \frac{4}{1.03^i} + \frac{100}{1.03^{36}} = 125.83$$
 
