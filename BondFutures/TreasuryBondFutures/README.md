@@ -15,7 +15,8 @@ If a bond is bought or sold at a time other than those two dates each year, the 
 The new owner will receive a full 1/2 year interest payment at the next payment date. Therefore, the previous owner must be paid the interest that accrued prior to the sale.
 ```
 
-![image](https://github.com/mincongzhang/BHNotes/assets/5571030/a68c34a2-3916-4eea-b4f3-a4195eb2b39c)
+![image](https://github.com/mincongzhang/DerivativesNotes/assets/5571030/3dfd278b-88cd-4022-9627-473d0d9dad01)
+
 
 
 https://www.investopedia.com/terms/a/accruedinterest.asp
