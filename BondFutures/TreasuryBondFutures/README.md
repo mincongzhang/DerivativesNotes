@@ -98,8 +98,7 @@ $$Discounted \ Face \ Value = \frac{100}{1.03^{36}}$$
 
 $$Discounted \ Total \ Bond \ Value = Coupon + Discounted \ Total \ Coupons + Discounted \ Face \ Value =  4 + \sum_{n=1}^{36} \frac{4}{1.03^i} + \frac{100}{1.03^{36}} = 125.83$$
 
-
-![image](https://github.com/mincongzhang/BHNotes/assets/5571030/ee5ecaf6-a32e-4424-8fd2-101631061f47)
+![image](https://github.com/mincongzhang/DerivativesNotes/assets/5571030/cb0258b7-bf49-4c64-9ea1-b68b43bf82fb)
 
 Because we have discount rate is 6% per annum with semiannual compounding (3% per 6 months):
 
@@ -145,10 +144,11 @@ $$\ Quoted \ bond \ price (Clean \ price) -  (Most \ Recent \ Future \ Settlemen
 
 Assume the most recent future settlement price is 93-08, or 93.25.
 
+![image](https://github.com/mincongzhang/DerivativesNotes/assets/5571030/835ffe7b-28b7-4b57-9511-dbc1029c2f3e)
 
-![image](https://github.com/mincongzhang/BHNotes/assets/5571030/81d04d81-a0b6-461e-84a9-525dfd6bb28a)
 
-![image](https://github.com/mincongzhang/BHNotes/assets/5571030/e97737ac-6d07-49c6-8235-660322ffb90f)
+![image](https://github.com/mincongzhang/DerivativesNotes/assets/5571030/dfbff73f-1677-4580-ae2c-7737ca1ff3c7)
+
 
 ## Determining the Futures Price
 
@@ -182,7 +182,8 @@ In a Treasury bond futures contract, what we know:
 - bond price quoted: $115
 
 
-![image](https://github.com/mincongzhang/BHNotes/assets/5571030/934228e3-d31f-43e6-ad2f-25f961d75484)
+![image](https://github.com/mincongzhang/DerivativesNotes/assets/5571030/a8f7a443-5888-4162-a7ec-806a0a72df6c)
+
 
 
 __Calculate cash price__ $S_0$: 
@@ -192,7 +193,8 @@ $$Cash \ Price = Quoted \ Price(Clean \ Price) + Accrued \ interest \  since \ l
 Accrued interest:
 $$\frac{60}{60+122} \times 12\\% \times 0.5 = 1.978$$
 
-![image](https://github.com/mincongzhang/BHNotes/assets/5571030/e2ae74c4-57ae-4272-8408-6cce9708a221)
+![image](https://github.com/mincongzhang/DerivativesNotes/assets/5571030/defae1c5-3a17-4f8a-ace2-9701e6d33101)
+
 
 
 Quoted bond price (clean price): 115
@@ -207,7 +209,8 @@ __Coupon PV__ $I$:
 
 $$6e^{-0.1 \times 0.3342} = 5.803$$
 
-![image](https://github.com/mincongzhang/BHNotes/assets/5571030/7275ee31-fa48-4215-a2af-52e21d902e3d)
+![image](https://github.com/mincongzhang/DerivativesNotes/assets/5571030/0bbb9057-9137-4da3-b8b7-9e61c6903b67)
+
 
 
 __Calculate cash futures price__ $F_0$:
@@ -220,7 +223,8 @@ The cash futures price, if the contract were written on the 12% bond:
 
 $$F_0 = (S_0-I) e^{rT} = (116.978 - 5.803) e^{0.1 \times 0.7397} = 119.711$$
 
-![image](https://github.com/mincongzhang/BHNotes/assets/5571030/925ba444-ec16-4bd7-8675-b255fb634350)
+![image](https://github.com/mincongzhang/DerivativesNotes/assets/5571030/7c3672e8-a261-469f-8946-11ad2f3f78a1)
+
 
 
 __Subtracting the accrued interest__:
@@ -231,7 +235,8 @@ The quoted futures price needs to subtract the accrued interest.
 
 $$119.711 - 6 \times \frac{148}{148+35} = 114.859$$
 
-![image](https://github.com/mincongzhang/BHNotes/assets/5571030/563e7f2c-0c65-402e-a049-6b9948cb94ec)
+![image](https://github.com/mincongzhang/DerivativesNotes/assets/5571030/b892c799-43c3-4b98-80f3-ccf6a27003c4)
+
 
 
 __Use Conversion Factor__:
