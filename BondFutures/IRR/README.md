@@ -1,6 +1,6 @@
 https://quant.stackexchange.com/questions/51415/implied-repo-rate-calculation-from-fabozzi
 
-The Handbook of Fixed Income Securities:
+The Handbook of Fixed Income Securities: Chapter 53, page 1204
 
 https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/FICC/handbook/the_handbook_of_fixed_income_securities.pdf
 
